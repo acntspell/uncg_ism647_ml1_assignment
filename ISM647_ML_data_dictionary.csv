@@ -1,0 +1,49 @@
+Attribute ,Data Dictionary
+Ins,"Purchase variable annuity insurance (1=yes, 0=no)"
+AcctAge,Age of oldest account in years
+DDA,"Checking account (1=yes, 0=no)"
+DDABal,Checking account balance
+Dep,Number of checking deposits
+DepAmt,Amount deposited
+CashBk,Number of times customer received cash back
+Checks,Number of checks
+DirDep,"Direct deposit (1=yes, 0=no)"
+NSF,"Occurrence of insufficient funds (1=yes, 0=no)"
+NSFAmt,Amount of insufficient funds
+Phone,Number of times a customer used telephone banking
+Teller,Number of teller visits
+Sav,"Savings account (1=yes, 0=no)"
+SavBal,Savings balance
+ATM,"Used ATM service (1=yes, 0=no)"
+ATMAmt,ATM withdrawal amount
+POS,Number of point of sale transactions
+POSAmt,Amount in point of sale transactions
+CD,"Has certificate of deposit (1=yes, 0=no)"
+CDBal,Certificate of deposit balance
+IRA,"Has retirement account (1=yes, 0=no)"
+IRABal,Retirement account balance
+LOC,"Has line of credit (1=yes, 0=no)"
+LOCBal,Line of credit balance
+Inv,"Has investment account (1=yes, 0=no)"
+InvBal,Investment account balance
+ILS,"Has installment loan (1=yes, 0=no)"
+ILSBal,Installment loan balance
+MM,"Has money market account (1=yes, 0=no)"
+MMBal,Money market balance
+MMCred,Number of money market credits
+MTG,"Has mortgage account (1=yes, 0=no)"
+MTGBal,Mortgage balance
+CC,"Has credit card account (1=yes, 0=no)"
+CCBal,Credit card balance
+CCPurc,Number of credit card purchases
+SDB,"Has a safety deposit box (1=yes, 0=no)"
+Income,Income in thousands of dollars
+HMOwn,"Owns home (1=yes, 0=no)"
+LORes,Length of residence in years
+HMVal,Home value in thousands of dollars
+Age,Age of customer in years
+CRScore,Credit score
+Moved,"Recent address change (1=yes, 0=no)"
+InArea,"Local address (1=yes, 0=no)"
+Res,"Area classification (R=rural, S=suburb, U=urban)"
+Branch,Branch of bank (B1 - B19)
