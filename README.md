@@ -4,7 +4,11 @@ This repository contains the project files for the ISM647 ML1 assignment at the 
 
 ## Project Overview
 
-The goal of this assignment is to apply various machine learning algorithms to solve a specific problem or to demonstrate the application of different data science techniques. The project might involve data preprocessing, exploratory data analysis, model selection, model training, and evaluation.
+The goal of this assignment is to apply various machine learning algorithms to the given problem:
+
+A target marketing campaign for a bank was undertaken to identify segments of customers who are likely to respond to a variable annuity (insurance product) marketing campaign. For this project, data was collected from 32,264 banking customers during a three-month period. The data set was created with one output variable and 47 input variables. The output variable is a binary variable called Ins. It indicates whether the customer bought an insurance product. The data set called Insurance Purchase.
+
+The project involved data preprocessing, exploratory data analysis, model selection, model training, and evaluation using ANN, logistic regression, random forest, and XGBoost models.
 
 ## Getting Started
 
@@ -17,9 +21,9 @@ Before you begin, ensure you have the following tools and libraries installed:
 - Jupyter Notebook or JupyterLab
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
-- TensorFlow (optional, depending on the project requirements)
+- TensorFlow
+- Keras
 
 ### Installation
 
